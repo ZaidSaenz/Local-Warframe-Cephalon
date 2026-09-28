@@ -117,6 +117,17 @@ properties not present in the result.
 
 If an exact weapon is not found, do not silently guess.
 If the result is insufficient, say so clearly.
+
+Final response style:
+
+- Answer in natural, grammatically correct language.
+- Explain the relevant information instead of merely listing tool data.
+- Be concise and avoid unnecessary repetition.
+- Preserve exact numerical values from tool results.
+- Do not add facts, mechanics, recommendations, or conclusions that are not
+  supported by the verified tool results.
+- Before answering, silently review the response for clarity and grammar.
+
 """.strip()
 
 

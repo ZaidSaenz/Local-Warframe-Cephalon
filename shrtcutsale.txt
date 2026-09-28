@@ -1,0 +1,3 @@
+
+sintaxis de prueba 
+python -m modules.cephalon_agent --threads 4 --n-ctx 4096 ask "¿?"
